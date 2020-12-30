@@ -1,7 +1,7 @@
 # souplicious
 UX implementation soup delivery app
 
-This app is bootstraped with "create-react-app"
+This app was bootstraped with "create-react-app"
 
 Available Scripts
 In the project directory, you can run:
